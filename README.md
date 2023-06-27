@@ -1,2 +1,3 @@
 # json_data_fetch
-people data shown on screen with paginations
+people data shown based on json data
+
